@@ -1,0 +1,62 @@
+/* Logo Slider Section */
+.bottomslide {
+  overflow: hidden; /* Hide overflow to create a seamless loop */
+  position: relative;
+  width: 100%; /* Ensure it takes the full width of the screen */
+  padding: 1rem 0; /* Adjust padding as needed */
+}
+
+/* Logo Slider Track */
+.logo-slider-track {
+  display: flex; /* Use flexbox to align logos horizontally */
+  width: calc(250px * 12); /* 6 logos × 2 sets × 250px each */
+  animation: scroll 20s linear infinite; /* Animation for infinite scrolling */
+}
+
+/* Logo Slide */
+.logo-slide {
+  flex: 0 0 auto;
+  width: 250px; /* Fixed width for each logo */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Logo Image */
+.logo-slide img {
+  max-width: 100%; /* Ensure logos fit within their container */
+  height: auto;
+}
+
+/* Keyframes for Infinite Scrolling */
+@keyframes scroll {
+  0% {
+    transform: translateX(0); /* Start from the original position */
+  }
+  100% {
+    transform: translateX(
+      calc(-250px * 6)
+    ); /* Move the entire track to the left */
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .tage-h-one {
+    font-size: 2.5rem; /* Adjust font size for smaller screens */
+  }
+
+  .services-hero-statistics {
+    flex-direction: column; /* Stack statistics vertically on smaller screens */
+    gap: 1rem;
+  }
+
+  .logo-slide {
+    width: 150px; /* Smaller logos for mobile */
+  }
+
+  .logo-slider-track {
+    width: calc(150px * 12); /* Adjust width for smaller logos */
+    animation: scroll 15s linear infinite; /* Faster scrolling for mobile */
+  }
+}
