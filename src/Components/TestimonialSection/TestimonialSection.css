@@ -53,9 +53,10 @@
 }
 
 .com-btn img {
-  width: 40px; /* Larger arrow size */
-  height: 40px;
+  width: 24px; /* Larger arrow size */
+  height: 24px;
 }
+
 
 /* Dots Navigation */
 /* .slick-dots {
