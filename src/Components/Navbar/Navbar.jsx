@@ -67,29 +67,41 @@ const Navbar = () => {
                       <div className="col-md-3 bdr">
                         <ul className="sub-menu">
                           <li>
-                            <a href="/about-us">About Us</a>
+                            <a href="https://about-us-mu.vercel.app/">
+                              About Us
+                            </a>
                           </li>
                           <li>
-                            <a href="/our-team">Our Team</a>
+                            <a href="https://contact-us-roan-one.vercel.app/">
+                              Our Team
+                            </a>
                           </li>
                           <li>
-                            <a href="/careers">Career</a>
+                            <a href="https://career-flax-six.vercel.app/">
+                              Career
+                            </a>
                           </li>
                           <li>
-                            <a href="/contact-us">Contact Us</a>
+                            <a href="https://contact-us-roan-one.vercel.app/">
+                              Contact Us
+                            </a>
                           </li>
                         </ul>
                       </div>
                       <div className="col-md-3 bdr">
                         <ul className="sub-menu">
                           <li>
-                            <a href="/our-client">Our Clients</a>
+                            <a href="https://client-dun-psi.vercel.app/">
+                              Our Clients
+                            </a>
                           </li>
                           <li>
-                            <a href="/press-media">Press & Media</a>
+                            <a href="https://press-media.vercel.app/">
+                              Press & Media
+                            </a>
                           </li>
                           <li>
-                            <a href="/life-at-indtechmark">
+                            <a href="https://lifeat-ind.vercel.app/">
                               Life at INDTechMark
                             </a>
                           </li>
@@ -161,17 +173,15 @@ const Navbar = () => {
                       <div className="col-md-4 bdr">
                         <ul className="sub-menu">
                           <li>
-                            <a href="https://ind-tech-mar-web-dev-page.vercel.app/">
-                              Web Development
-                            </a>
+                            <a href="/web-development">Web Development</a>
                           </li>
                           <li>
-                            <a href="https://indtech-mark-mob-dev-page.vercel.app/">
+                            <a href="/mobile-app-development">
                               Mobile App Development
                             </a>
                           </li>
                           <li>
-                            <a href="https://indtech-digital-marketing-service.vercel.app/">
+                            <a href="/digital-marketing-services">
                               Digital Marketing
                             </a>
                           </li>
@@ -183,24 +193,16 @@ const Navbar = () => {
                       <div className="col-md-4">
                         <ul className="sub-menu">
                           <li>
-                            <a href="https://indtech-wesite-design-company.vercel.app/">
-                              Web Designing
-                            </a>
+                            <a href="/website-design-company">Web Designing</a>
                           </li>
                           <li>
-                            <a href="https://indtech-portfolio-page.vercel.app/">
-                              Work
-                            </a>
+                            <a href="/portfolio">Work</a>
                           </li>
                           <li>
-                            <a href="https://indtech-check-out-page.vercel.app/">
-                              Checkout
-                            </a>
+                            <a href="/checkout">Checkout</a>
                           </li>
                           <li>
-                            <a href="https://indtech-pricing-page.vercel.app/">
-                              Pricing
-                            </a>
+                            <a href="/pricing">Pricing</a>
                           </li>
                         </ul>
                       </div>
@@ -252,33 +254,23 @@ const Navbar = () => {
                       <div className="col-md-4 bdr">
                         <ul className="sub-menu">
                           <li>
-                            <a href="https://indtech-services-social-media-page.vercel.app/">
-                              Social Media
-                            </a>
+                            <a href="/social-media">Social Media</a>
                           </li>
                           <li>
-                            <a href="https://indtech-finance-page.vercel.app/">
-                              Finance
-                            </a>
+                            <a href="/finance">Finance</a>
                           </li>
                           <li>
-                            <a href="https://indtech-education.vercel.app/">
-                              Education
-                            </a>
+                            <a href="/education">Education</a>
                           </li>
                         </ul>
                       </div>
                       <div className="col-md-4">
                         <ul className="sub-menu">
                           <li>
-                            <a href="https://indtech-health-care.vercel.app/">
-                              Healthcare
-                            </a>
+                            <a href="/healthcare">Healthcare</a>
                           </li>
                           <li>
-                            <a href="https://indtech-sports.vercel.app/">
-                              Sports
-                            </a>
+                            <a href="/sports">Sports</a>
                           </li>
                         </ul>
                       </div>
