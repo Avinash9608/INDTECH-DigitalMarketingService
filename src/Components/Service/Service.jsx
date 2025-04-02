@@ -17,49 +17,49 @@ const WeServeSection = () => {
       title: "Search Engine Optimization",
       description:
         "To properly optimize your website for search engines, our team of SEO professionals can identify and fix any issues that may be stopping you from achieving your goal. We’ll provide you with a complete report on every issue on your website.",
-      link: "seo",
+      link: "https://indtech-seo.vercel.app/",
     },
     {
       icon: socialMediaIcon,
       title: "Social Media Marketing",
       description:
         "Are you willing to expand your market on several social media channels? We are experts in building social media campaigns to help your business grow and engage your followers. We even help you develop custom brand management and paid advertising strategies.",
-      link: "social-media",
+      link: "https://indtech-services-social-media-page.vercel.app/",
     },
     {
       icon: paidAdsIcon,
       title: "PPC",
       description:
         "Get hold of your customers quickly with PPC campaigns. Our PPC experts are skilled and certified and create targeted ad copies, optimize bidding strategies, and monitor ROI for each keyword. This way, you can drive and generate high-volume leads and traffic.",
-      link: "digital-marketing-services",
+      link: "https://indtech-digital-marketing-service.vercel.app/",
     },
     {
       icon: paidAdsIcon,
       title: "Content Marketing",
       description:
         "At IND Tech Mark, we make tailored content to meet specific goals and requirements of businesses, which tends to engage and inform the target audience. Our content marketing services have an engagement nature that calls upon the reader’s actions.",
-      link: "digital-marketing-services",
+      link: "https://indtech-digital-marketing-service.vercel.app/",
     },
     {
       icon: paidAdsIcon,
       title: "Online Reputation Management",
       description:
         "Your online reputation can either make or break your success. Improve your reputation and reap lucrative rewards with our professionals. We leverage state-of-the-art online reputation management strategies to streamline your practices and generate more positive reviews.",
-      link: "digital-marketing-services",
+      link: "https://indtech-digital-marketing-service.vercel.app/",
     },
     {
       icon: paidAdsIcon,
       title: "App Store Optimization",
       description:
         "Willing to get a great flow of organic downloads and a lot of traffic on your app? At IND Tech Mark, we put our experience and expertise into practice and deliver top results for your app. We employ successful strategies to make your app more visible and successful.",
-      link: "digital-marketing-services",
+      link: "https://indtech-digital-marketing-service.vercel.app/",
     },
     {
       icon: paidAdsIcon,
       title: "Email Marketing",
       description:
         "Choosing us as your email marketing partner can make your business stand out in the market. We create personalized email newsletters to let your emails land in your inbox and influence customers to take the desired action. Our expertise can potentially help you build a subscriber list.",
-      link: "digital-marketing-services",
+      link: "https://indtech-digital-marketing-service.vercel.app/",
     },
   ];
 
